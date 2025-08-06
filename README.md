@@ -1,4 +1,4 @@
-# 🚗 EV Market Analysis (Excel-Based)
+# EV Market Analysis (Excel-Based)
 
 ## 📁 Project Overview:
 This project presents an Excel-based analysis of Electric Vehicle (EV) growth across Indian states from 2023 to 2024.
@@ -8,11 +8,11 @@ The data includes:
 - Number of charging stations
 - Calculated growth rates for each state
 
-## 📊 Tools Used:
+## Tools Used:
 - Microsoft Excel (mobile version)
 - GitHub (for project version control)
 
-## 📈 Dataset:
+##  Dataset:
 
 | State        | EV Sales 2023 | EV Sales 2024 | Charging Stations | Growth Rate (%) |
 |--------------|----------------|----------------|-------------------|-----------------|
@@ -22,14 +22,14 @@ The data includes:
 | Delhi        | 18,000         | 29,000         | 130               | 61.1%           |
 | Telangana    | 15,000         | 27,000         | 110               | 80%             |
 
-## ✅ Key Learnings:
+##  Key Learnings:
 - Practiced Excel formula usage to calculate % growth
 - Understood how to structure and organize business data
 - Uploaded and documented a project on GitHub
 
 ---
 
-👩‍💻 **Created by:** Nimra Surur  
-🎓 BBA Student | Aspiring Business Analyst  
-📫 Email: nimrasuroor71@gmail.com
+ **Created by:** Nimra Surur  
+ BBA Student | Aspiring Business Analyst  
+Email: nimrasuroor71@gmail.com
 
